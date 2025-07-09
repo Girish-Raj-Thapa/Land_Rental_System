@@ -34,8 +34,10 @@ The program is thoroughly tested through multiple scenarios to ensure robustness
    git clone https://github.com/yourusername/land-rental-system.git
 
 2. Navigate to the Project Directory
+   ```bash
    cd land-rental-system
 
-3. Run the main program
+4. Run the main program
+   ```bash
    python main.py
 
